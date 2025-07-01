@@ -1,4 +1,4 @@
-#  Sistema de Cadastro Completo
+#  Sistema de Cadastro Simples
 
 Uma aplicação desktop moderna e simples, desenvolvida com **Python** e **CustomTkinter**, que permite **cadastrar, validar e pesquisar** pessoas com dados detalhados de identificação e endereço. Inclui validação de CPF, e-mail e CEP, além de uma interface amigável e escura.
 
